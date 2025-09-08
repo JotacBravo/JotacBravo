@@ -14,14 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋 I'm YOUR_USERNAME
+# Hi there 👋 I'm João Bravo
 
-Welcome to my GitHub profile! 🚀
+Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JotacBravo&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JotacBravo&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JotacBravo&theme=radical)
