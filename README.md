@@ -30,5 +30,5 @@ I have experience contributing to open source projects and supporting technologi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JotacBravo&show_icons=true&theme=radical)
+![GitHub Stats](github-readme-stats-iemorxexi-jotacbravos-projects.vercel.app)
 
